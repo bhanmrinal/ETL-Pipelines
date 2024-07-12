@@ -38,7 +38,7 @@ The pipeline is designed to:
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/bhanmrinal/ETL-Pipelines.git
+    git clone https://github.com/bhanmrinal/Reddit-Pipelines.git
    ```
 2. Create a virtual environment.
    ```bash
